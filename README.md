@@ -14,3 +14,7 @@ You can also run MuonTrap from an elixir script (this works...)
 - cd script
 - ./demo
 
+You can also run MuonTrap from IEX (this works...)
+- iex -S mix
+- Zing.main([])
+
