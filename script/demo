@@ -1,0 +1,9 @@
+#!/usr/bin/env elixir
+
+# A simple Elixir script to demonstrate MuonTrap in action...
+
+Mix.install([
+  {:zing, path: "../../zing"}
+])
+
+Zing.main([])

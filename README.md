@@ -10,3 +10,7 @@ To Demo the Issue:
 - mix escript.build
 - ./zing
 
+You can also run MuonTrap from an elixir script (this works...)
+- cd script
+- ./demo
+
